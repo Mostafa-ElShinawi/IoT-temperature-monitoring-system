@@ -6,7 +6,7 @@
 Real-time temperature monitoring with ESP8266 modules and Python server
 
 ![System Demo](media/Circuit_with_IoT_integration.mp4) 
-[![Dashboard Preview](media/dashboard_screenshot.png)](media/dashboard_screenshot.png)
+[![Dashboard Preview](media/thingsboard_dashboard.png)](media/thingsboard_dashboard.png)
 
 ## Quick Start
 ```bash
